@@ -11,3 +11,6 @@ git clone https://github.com/nikol4e2/qa.git
 cd graphql-api-tests
 npm install
 npm test
+
+
+//
